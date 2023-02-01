@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LicenseAgreementAcceptanceStatus>
+    <LicenseAgreementAcceptanceRecords>
+        <LicenseAgreementAcceptanceRecord>
+            <Type>1</Type>
+            <AcceptedBy Type="GUID">7A2C49944CC8AA280A746C1B@AdobeID</AcceptedBy>
+            <Version>1000</Version>
+            <Locale>en_US</Locale>
+            <TimeStamp>1591893076</TimeStamp>
+            <Phase>0</Phase>
+        </LicenseAgreementAcceptanceRecord>
+        <LicenseAgreementAcceptanceRecord>
+            <Type>1</Type>
+            <AcceptedBy Type="GUID">3202566F5EB430CC0A495EF4@jwt.com</AcceptedBy>
+            <Version>1000</Version>
+            <Locale>en_US</Locale>
+            <TimeStamp>1593807008</TimeStamp>
+            <Phase>0</Phase>
+        </LicenseAgreementAcceptanceRecord>
+    </LicenseAgreementAcceptanceRecords>
+</LicenseAgreementAcceptanceStatus>

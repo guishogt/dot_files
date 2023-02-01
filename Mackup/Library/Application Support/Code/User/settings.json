@@ -1,0 +1,15 @@
+{
+    "window.zoomLevel": 2,
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "terminal.integrated.inheritEnv": false,
+    "workbench.colorTheme": "Predawn",
+    "workbench.settings.editor": "json",
+    "workbench.settings.openDefaultSettings": true,
+    "workbench.settings.useSplitJSON": true,
+    "files.autoSave": "afterDelay",
+    "git.autofetch": true,
+    "git.confirmSync": false
+    
+}
