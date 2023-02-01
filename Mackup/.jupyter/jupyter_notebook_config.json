@@ -1,8 +1,0 @@
-{
-  "NotebookApp": {
-    "nbserver_extensions": {
-      "jupyter_tabnine": true
-    },
-    "password": "argon2:$argon2id$v=19$m=10240,t=10,p=8$5/kWLcWnslwCeWdOBfK3Ag$vMXsdgaAPzYzPNBXgf0QWw"
-  }
-}
